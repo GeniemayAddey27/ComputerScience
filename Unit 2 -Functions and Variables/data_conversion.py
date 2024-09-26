@@ -11,5 +11,26 @@ j = 10.0        #float -> int
 k = 254         #int -> byte
 a_str = str(a)
 print(a_str)
-float_str = str(b) 
-print()
+b_str = str(b) 
+print(b_str)
+c_str = int(c)
+print(c_str)
+d_bool = bool(d)
+print(d_bool)
+e_str = str(e)
+print(e_str)
+f_bool = bool(f)
+print(f_bool)
+g_bin = bin(g)
+print(g_bin)
+h_float = float(h)
+print(h)
+i_float = float(i)
+print(i_float)
+j_int = int(j)
+print(j_int)
+k_bin = bin(k)
+print(k_bin)
+
+
+
