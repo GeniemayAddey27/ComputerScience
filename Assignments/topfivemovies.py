@@ -6,7 +6,7 @@ def moviez(a,b,c,d,e):
     print(d)
     print(e)
 
-my_function
+    moviez("1.Dr.Strange" "2.The boy who harnessed the wind" "3. Black Panther" "4. Madea: Homecoming" "5. Spiderman-No way home" )
 
 def add(x, y):
     print(x + y)
